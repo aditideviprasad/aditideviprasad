@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Devi Prasad</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h3 align="center">A passionate EC engineer from DSU</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YhA5nO9jiCkAAAAM/ika-musume.gif">
 
@@ -16,6 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditideviprasad&show_icons=true&locale=en&layout=compact" alt="aditideviprasad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditideviprasad&show_icons=true&locale=en" alt="aditideviprasad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditideviprasad" alt="aditideviprasad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditideviprasad&" alt="aditideviprasad" /></p>
+
+
